@@ -1,6 +1,6 @@
 body {
-    background: #00091B;
-    color: #fff;
+    background-color: #00091B !important;
+    color: #ffffff;
 }
 
 
@@ -46,6 +46,7 @@ h1 {
     font-family: 'Poppins', sans-serif;
     margin-bottom: 0;
     line-height: 1;
+    color: #ffffff;
     font-weight: 700;
 }
 
